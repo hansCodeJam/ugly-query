@@ -11,7 +11,7 @@ uglyH1.style.opacity = '0.6';
 const colorP = document.querySelector('#green');
 colorP.style.color = 'green';
 colorP.style.border = 'thick solid #0000FF';
-colorP.style.borderRadius = '50px 20px';
+colorP.style.borderRadius = '20px 20px ';
 colorP.style.backgroundImage = "url(https://www.animatedimages.org/data/media/710/animated-dice-image-0015.gif)"
 
 const opacityList = document.querySelector('#opacity')
@@ -38,9 +38,6 @@ uglyBlueInput.style.backgroundColor = 'blue';
 const font = document.querySelector('#font');
 font.style.fontStretch = 'expanded';
 
-
-
-// document.getElementById("myDiv").style.border = "thick solid #0000FF";
 
 
 
